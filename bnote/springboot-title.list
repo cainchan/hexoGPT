@@ -1,3 +1,4 @@
-SpringBoot集成SpringSecurity的方法
-SpringBoot集成日志的方法
-SpringBoot静态资源处理的方法
+SpringBootMavenPlugin
+SpringBootGradlePlugin
+SpringBoot热部署
+SpringBoot远程调试
