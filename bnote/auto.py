@@ -9,5 +9,5 @@ os.chdir(os.getcwd())
 print(os.getcwd())
 for title in titleList:
     print(title + 'start')
-    os.system('./auto.sh '+title)
+    os.system('./auto.sh flask '+title)
 f.close()

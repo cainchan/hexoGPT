@@ -1,50 +1,43 @@
-Laravel安装和配置
-Laravel路由和控制器
-Laravel视图和模板引擎
-Laravel表单和验证
-Laravel数据库Migrations和Seeds
-Laravel Eloquent ORM介绍
-Laravel关系型数据库操作
-Laravel查询构建器
-Laravel分页和缓存
-Laravel文件上传与下载
-Laravel邮件发送
-Laravel队列处理
-Laravel事件监听
-Laravel通知系统
-Laravel中间件介绍
-Laravel错误与日志处理
-Laravel测试基础
-Laravel集成测试
-Laravel API开发
-Laravel Passport认证
-Laravel社交登录实现
-Laravel微信支付集成
-Laravel多语言支持
-Laravel国际化支持
-Laravel调试技巧
-Laravel优化技巧
-Laravel安全性优化
-Laravel部署流程详解
-Laravel容器和依赖注入
-Laravel服务提供者
-Laravel Facades深度剖析
-Laravel扩展包开发
-Laravel Horizon队列监控
-Laravel Dusk端到端测试
-Laravel Vapor Serverless部署
-Laravel Sanctum无状态认证
-Laravel Telescope调试工具
-Laravel Forge服务器管理
-Laravel Envoyer代码部署
-Laravel Echo实时通信
-Laravel Queues异步任务处理
-Laravel Notifications通知系统进阶
-Laravel Cashier订阅支付
-Laravel Socialite社交登录扩展
-Laravel Passport深度剖析
-Laravel Mix打包工具
-Laravel Blade模板引擎进阶
-Laravel Scout全文搜索
-Laravel Tinker REPL环境
-Laravel Task Scheduling定时任务
+1   Python Flask 系列教程 - 简介
+2   Python Flask 系列教程 - 安装和配置
+3   Python Flask 系列教程 - 第一个应用程序
+4   Python Flask 系列教程 - 基本路由
+5   Python Flask 系列教程 - 路由变量和规则
+6   Python Flask 系列教程 - HTTP请求方法
+7   Python Flask 系列教程 - URL构建
+8   Python Flask 系列教程 - 请求对象
+9   Python Flask 系列教程 - 响应对象
+10  Python Flask 系列教程 - 重定向和错误处理
+11  Python Flask 系列教程 - 模板
+12  Python Flask 系列教程 - 静态文件
+13  Python Flask 系列教程 - 表单处理
+14  Python Flask 系列教程 - 文件上传
+15  Python Flask 系列教程 - 数据库集成 - SQLite
+16  Python Flask 系列教程 - 数据库集成 - MySQL
+17  Python Flask 系列教程 - 数据库集成 - PostgreSQL
+18  Python Flask 系列教程 - 数据库集成 - MongoDB
+19  Python Flask 系列教程 - 数据库集成 - Redis
+20  Python Flask 系列教程 - 用户认证和授权
+21  Python Flask 系列教程 - 第三方登录
+22  Python Flask 系列教程 - 邮件发送
+23  Python Flask 系列教程 - 跨域资源共享
+24  Python Flask 系列教程 - WebSocket
+25  Python Flask 系列教程 - RESTful API
+26  Python Flask 系列教程 - 单元测试
+27  Python Flask 系列教程 - 集成测试
+28  Python Flask 系列教程 - 性能优化
+29  Python Flask 系列教程 - 日志记录
+30  Python Flask 系列教程 - 安全性保障
+31  Python Flask 系列教程 - 部署到服务器
+32  Python Flask 系列教程 - Docker容器化部署
+33  Python Flask 系列教程 - Kubernetes集群化部署
+34  Python Flask 系列教程 - 自动化测试
+35  Python Flask 系列教程 - 持续集成和持续部署
+36  Python Flask 系列教程 - 项目实战：博客网站
+37  Python Flask 系列教程 - 项目实战：电子商务网站
+38  Python Flask 系列教程 - 项目实战：在线教育平台
+39  Python Flask 系列教程 - 项目实战：社交网络应用
+40  Python Flask 系列教程 - 项目实战：物流管理系统
+41  Python Flask 系列教程 - 项目实战：在线音乐播放器
+42  Python Flask 系列教程 - 项目实战：在线文本编辑器
+43  Python Flask 系列教程 - 项目实战：个人博客 RSS 订阅
