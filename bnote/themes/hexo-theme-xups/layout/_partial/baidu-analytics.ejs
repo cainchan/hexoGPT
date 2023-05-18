@@ -1,11 +1,9 @@
-<% if (theme.baidu_analytics.enable) { %>
 <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src="<%- theme.baidu_analytics.analytics_url %>"
+  hm.src = "https://hm.baidu.com/hm.js?280d0a7b25c11ab906ad4b2c4672577b";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
-<% } %>
