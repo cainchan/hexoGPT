@@ -1,43 +1,43 @@
-1   Python Flask 系列教程 - 简介
-2   Python Flask 系列教程 - 安装和配置
-3   Python Flask 系列教程 - 第一个应用程序
-4   Python Flask 系列教程 - 基本路由
-5   Python Flask 系列教程 - 路由变量和规则
-6   Python Flask 系列教程 - HTTP请求方法
-7   Python Flask 系列教程 - URL构建
-8   Python Flask 系列教程 - 请求对象
-9   Python Flask 系列教程 - 响应对象
-10  Python Flask 系列教程 - 重定向和错误处理
-11  Python Flask 系列教程 - 模板
-12  Python Flask 系列教程 - 静态文件
-13  Python Flask 系列教程 - 表单处理
-14  Python Flask 系列教程 - 文件上传
-15  Python Flask 系列教程 - 数据库集成 - SQLite
-16  Python Flask 系列教程 - 数据库集成 - MySQL
-17  Python Flask 系列教程 - 数据库集成 - PostgreSQL
-18  Python Flask 系列教程 - 数据库集成 - MongoDB
-19  Python Flask 系列教程 - 数据库集成 - Redis
-20  Python Flask 系列教程 - 用户认证和授权
-21  Python Flask 系列教程 - 第三方登录
-22  Python Flask 系列教程 - 邮件发送
-23  Python Flask 系列教程 - 跨域资源共享
-24  Python Flask 系列教程 - WebSocket
-25  Python Flask 系列教程 - RESTful API
-26  Python Flask 系列教程 - 单元测试
-27  Python Flask 系列教程 - 集成测试
-28  Python Flask 系列教程 - 性能优化
-29  Python Flask 系列教程 - 日志记录
-30  Python Flask 系列教程 - 安全性保障
-31  Python Flask 系列教程 - 部署到服务器
-32  Python Flask 系列教程 - Docker容器化部署
-33  Python Flask 系列教程 - Kubernetes集群化部署
-34  Python Flask 系列教程 - 自动化测试
-35  Python Flask 系列教程 - 持续集成和持续部署
-36  Python Flask 系列教程 - 项目实战：博客网站
-37  Python Flask 系列教程 - 项目实战：电子商务网站
-38  Python Flask 系列教程 - 项目实战：在线教育平台
-39  Python Flask 系列教程 - 项目实战：社交网络应用
-40  Python Flask 系列教程 - 项目实战：物流管理系统
-41  Python Flask 系列教程 - 项目实战：在线音乐播放器
-42  Python Flask 系列教程 - 项目实战：在线文本编辑器
-43  Python Flask 系列教程 - 项目实战：个人博客 RSS 订阅
+Python Flask 系列教程 - 简介
+Python Flask 系列教程 - 安装和配置
+Python Flask 系列教程 - 第一个应用程序
+Python Flask 系列教程 - 基本路由
+Python Flask 系列教程 - 路由变量和规则
+Python Flask 系列教程 - HTTP请求方法
+Python Flask 系列教程 - URL构建
+Python Flask 系列教程 - 请求对象
+Python Flask 系列教程 - 响应对象
+Python Flask 系列教程 - 重定向和错误处理
+Python Flask 系列教程 - 模板
+Python Flask 系列教程 - 静态文件
+Python Flask 系列教程 - 表单处理
+Python Flask 系列教程 - 文件上传
+Python Flask 系列教程 - 数据库集成 - SQLite
+Python Flask 系列教程 - 数据库集成 - MySQL
+Python Flask 系列教程 - 数据库集成 - PostgreSQL
+Python Flask 系列教程 - 数据库集成 - MongoDB
+Python Flask 系列教程 - 数据库集成 - Redis
+Python Flask 系列教程 - 用户认证和授权
+Python Flask 系列教程 - 第三方登录
+Python Flask 系列教程 - 邮件发送
+Python Flask 系列教程 - 跨域资源共享
+Python Flask 系列教程 - WebSocket
+Python Flask 系列教程 - RESTful API
+Python Flask 系列教程 - 单元测试
+Python Flask 系列教程 - 集成测试
+Python Flask 系列教程 - 性能优化
+Python Flask 系列教程 - 日志记录
+Python Flask 系列教程 - 安全性保障
+Python Flask 系列教程 - 部署到服务器
+Python Flask 系列教程 - Docker容器化部署
+Python Flask 系列教程 - Kubernetes集群化部署
+Python Flask 系列教程 - 自动化测试
+Python Flask 系列教程 - 持续集成和持续部署
+Python Flask 系列教程 - 项目实战：博客网站
+Python Flask 系列教程 - 项目实战：电子商务网站
+Python Flask 系列教程 - 项目实战：在线教育平台
+Python Flask 系列教程 - 项目实战：社交网络应用
+Python Flask 系列教程 - 项目实战：物流管理系统
+Python Flask 系列教程 - 项目实战：在线音乐播放器
+Python Flask 系列教程 - 项目实战：在线文本编辑器
+Python Flask 系列教程 - 项目实战：个人博客 RSS 订阅
