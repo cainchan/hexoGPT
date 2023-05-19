@@ -17,7 +17,7 @@ fi
 echo title=$title
 echo filepath=$filepath
 
-docker run -i --rm --volume $PWD:/data:rw --volume $HOME:/root:rw --workdir /data hkccr.ccs.tencentyun.com/zhengkai/hexo:20-alpine hexo new $temp.md -s $filename $title
+docker run -i --rm --volume $PWD:/data:rw --volume $HOME:/root:rw --workdir /data hkccr.ccs.tencentyun.com/zhengkai/hexo:20-alpine hexo new $temp -s $filename $title
 
 # 用chatgpt生成内容并追加到文章中
 data="{\"message\":\"${title}, 500字以上\"}"
