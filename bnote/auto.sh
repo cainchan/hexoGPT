@@ -1,5 +1,5 @@
 #!/bin/zsh
-source ~/.zshrc
+#source ~/.zshrc
 
 # 读取Title,文件名
 temp=$1
