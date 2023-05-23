@@ -20,7 +20,7 @@ echo filepath=$filepath
 docker run -i --rm --volume $PWD:/data:rw --volume $HOME:/root:rw --workdir /data hkccr.ccs.tencentyun.com/zhengkai/hexo:20-alpine hexo new $temp -s $filename $title
 
 # 用chatgpt生成内容并追加到文章中
-data="{\"message\":\"${title}, 500字以上\"}"
+data="{\"message\":\"${title}, 800字以上\"}"
 echo $data
 curl -s -X POST -H "Content-Type:application/json" -d $data https://p2qe9s.laf.dev/send |python3 -c "import sys,json;ret=json.load(sys.stdin);print(ret.get('text',{}))" >> $filepath
 echo $filepath Done

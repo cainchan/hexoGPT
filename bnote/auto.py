@@ -9,5 +9,5 @@ os.chdir(os.getcwd())
 print(os.getcwd())
 for title in titleList:
     print(title + 'start')
-    os.system('/bin/zsh ./auto.sh flask '+title)
+    os.system('/bin/zsh ./auto.sh springcloud '+title)
 f.close()
