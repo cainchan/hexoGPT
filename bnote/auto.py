@@ -2,12 +2,14 @@ import os
 import sys
 
 print(sys.argv[1])
-f = open(sys.argv[1],'r')
+print(sys.argv[2])
+f = open(sys.argv[2],'r')
 titleList = f.read().split('\n')
 print(titleList)
 os.chdir(os.getcwd())
 print(os.getcwd())
 for title in titleList:
     print(title + 'start')
-    os.system('/bin/zsh ./auto.sh springcloud '+title)
+    if not title.strip(): continue
+    os.system('/bin/zsh ./auto.sh '+sys.argv[1]+' '+title.strip())
 f.close()
